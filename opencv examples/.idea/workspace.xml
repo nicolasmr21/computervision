@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d205bf6-1de8-47fb-9d45-0161d5753f95" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.</find>
+      <find>../../</find>
+      <find>../../da</find>
+      <find>../../data</find>
+      <find>../../data/</find>
+      <find>h</find>
+      <find>haar</find>
+      <find>d</find>
+      <find>data</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="136" />
+    <option name="width" value="1213" />
+    <option name="height" value="770" />
+  </component>
+  <component name="ProjectId" id="1a1184fKiptvLbnTGpqF8vBYwxw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="opencv examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="opencv examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d205bf6-1de8-47fb-9d45-0161d5753f95" name="Default" comment="" />
+      <created>1490631506674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490631506674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1258" height="170" key="GridCell.Tab.0.bottom" timestamp="1585888325654">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1258" height="170" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1585888325654" />
+    <state width="1258" height="170" key="GridCell.Tab.0.center" timestamp="1585888325652">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1258" height="170" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1585888325652" />
+    <state width="1258" height="170" key="GridCell.Tab.0.left" timestamp="1585888325651">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1258" height="170" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1585888325651" />
+    <state width="1258" height="170" key="GridCell.Tab.0.right" timestamp="1585888325652">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1258" height="170" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1585888325652" />
+  </component>
+</project>
